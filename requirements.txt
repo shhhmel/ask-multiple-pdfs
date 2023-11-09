@@ -8,5 +8,5 @@ altair
 tiktoken
 
 # Instructor embeddings
-InstructorEmbedding
-sentence-transformers
+# InstructorEmbedding
+# sentence-transformers
